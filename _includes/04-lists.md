@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# My favorite things
+- Chicken
+- Rice
+- Spaghetti and Meatballs
+- Programming
